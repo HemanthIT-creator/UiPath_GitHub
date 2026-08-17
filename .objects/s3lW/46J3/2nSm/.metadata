@@ -1,0 +1,15 @@
+﻿{
+  "Name": "ACMEVendors",
+  "Type": "Screen",
+  "Id": "2nSmpajOik6G26crGm2Nog",
+  "Reference": "swezmNStkEKzZ0PqJKO75g/2nSmpajOik6G26crGm2Nog",
+  "ParentRef": "swezmNStkEKzZ0PqJKO75g/46J3YmuQ-0S_bzqgXJSuIA",
+  "Created": "2026-08-14T06:25:34.5942816Z",
+  "Updated": "2026-08-14T06:26:19.6151272Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

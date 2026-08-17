@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="u8-pnXEuhk2ZgnLN0f4zsQ" Reference="swezmNStkEKzZ0PqJKO75g/-ndED-TJbUymKZImFBeAPg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/welcome" ContentHash="_FRqyzp8w0yaobccCbVyyg" DesignTimeRectangle="1534, 157, 72, 48" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='Login' tag='A' /&gt;" Guid="554b10b6-07d1-4bbc-8000-f889b9ed7d98" Reference="swezmNStkEKzZ0PqJKO75g/-ndED-TJbUymKZImFBeAPg" ScopeSelectorArgument="&lt;html app='msedge.exe' title='UiBank-Welcome' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3a0ec15df06f017cda466bca8602c5bb.jpg" xmlns="">0QDgUe2AjAEiMTE7l5j5Gjw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

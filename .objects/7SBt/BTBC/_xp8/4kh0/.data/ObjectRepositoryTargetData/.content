@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3DOGjoc4BkSfxvf_TfWedg" Reference="swezmNStkEKzZ0PqJKO75g/4kh05hcnSUauAVuQVPcHDg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/welcome" ContentHash="H1vphMRmdkmG_si3gbzkKw" DesignTimeRectangle="905, 428, 545, 303" DesignTimeScaleFactor="1.125" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='STRONG' /&gt;" Guid="20c333b6-20d1-439e-a8e6-41902d37bf77" Reference="swezmNStkEKzZ0PqJKO75g/4kh05hcnSUauAVuQVPcHDg" ScopeSelectorArgument="&lt;html app='msedge.exe' title='UiBank-Welcome' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="04306395e6cd05254c16b05df1d942c0.jpg" xmlns="">0374AQ_O9j0SfBWmrydqb3A</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

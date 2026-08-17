@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3dW-7TrZ-EiBjvSQoevfpg" Reference="swezmNStkEKzZ0PqJKO75g/AyDZOYMwsEeIo349FMK8_g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/login" ContentHash="WAzhIYoE0kmj_lghSX8KYg" DesignTimeRectangle="869, 896, 180, 55" DesignTimeScaleFactor="1.125" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" Guid="c96c782d-a730-4d1c-a42f-5a477e349ed6" Reference="swezmNStkEKzZ0PqJKO75g/AyDZOYMwsEeIo349FMK8_g" ScopeSelectorArgument="&lt;html app='msedge.exe' title='UiBank-Login' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="73c4c873c0e4f2b387df5d5daa5bf68c.jpg" xmlns="">0xciCDkh-6UOUCwl2irevdA</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
