@@ -128,7 +128,7 @@
                         <OutArgument x:TypeArguments="x:String">[TaxidStored]</OutArgument>
                       </Assign.To>
                       <Assign.Value>
-                        <InArgument x:TypeArguments="x:String">[TaxidStored]</InArgument>
+                        <InArgument x:TypeArguments="x:String">[Tax]</InArgument>
                       </Assign.Value>
                     </Assign>
                     <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" AutoCloseAfter="00:00:00" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="416,114.66666666666667" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[TaxidStored]" />
