@@ -44,12 +44,6 @@
     },
     "fileInfoCollection": [
       {
-        "editingStatus": "InProgress",
-        "testCaseId": "ac4fab95-acd1-4558-ada5-d409f3d6c609",
-        "testCaseType": "TestCase",
-        "fileName": "TestCase.xaml"
-      },
-      {
         "editingStatus": "Publishable",
         "testCaseId": "c267be7e-27e4-4f23-a4b1-49577c22fa84",
         "testCaseType": "TestCase",
